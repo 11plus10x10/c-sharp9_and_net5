@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=06ee32db_002Dd029_002D4f4a_002Db92d_002Dcd9ee52702a0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CalculatorUnitTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::1A7AAD88-147B-452E-8627-CEB7E5B6DAB2::.NETCoreApp,Version=v3.1::CalculatorLibUnitTests.CalculatorUnitTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::683DA11D-B9DD-40C4-89A8-1196DA4AF12A::.NETCoreApp,Version=v3.1::MyMathLibUnitTests.UnitTest1.PrimeFactOf4&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::683DA11D-B9DD-40C4-89A8-1196DA4AF12A::.NETCoreApp,Version=v3.1::MyMathLibUnitTests.UnitTest1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

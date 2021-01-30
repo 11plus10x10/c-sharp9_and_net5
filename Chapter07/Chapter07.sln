@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssembliesAndNamespaces", "AssembliesAndNamespaces\AssembliesAndNamespaces.csproj", "{00A689E2-ADDA-45F3-B565-C4499D744B9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLibrary", "SharedLibrary\SharedLibrary.csproj", "{42B6E040-C6ED-4E04-85DF-B8FCDA0C2A73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCoreEverywhere", "DotNetCoreEverywhere\DotNetCoreEverywhere.csproj", "{CCBF85E2-1667-4DF7-830C-02B08408E044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A689E2-ADDA-45F3-B565-C4499D744B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A689E2-ADDA-45F3-B565-C4499D744B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A689E2-ADDA-45F3-B565-C4499D744B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A689E2-ADDA-45F3-B565-C4499D744B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B6E040-C6ED-4E04-85DF-B8FCDA0C2A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B6E040-C6ED-4E04-85DF-B8FCDA0C2A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B6E040-C6ED-4E04-85DF-B8FCDA0C2A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B6E040-C6ED-4E04-85DF-B8FCDA0C2A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCBF85E2-1667-4DF7-830C-02B08408E044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBF85E2-1667-4DF7-830C-02B08408E044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBF85E2-1667-4DF7-830C-02B08408E044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBF85E2-1667-4DF7-830C-02B08408E044}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

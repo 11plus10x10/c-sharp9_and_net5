@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacktLibrary", "PacktLibrary\PacktLibrary.csproj", "{5F2E7D44-4AD8-44E9-9C34-6544818008CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleApp", "PeopleApp\PeopleApp.csproj", "{4A6B7138-D817-4214-AD4B-F6F596C5AFAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise02", "Exercise02\Exercise02.csproj", "{0A930060-D7FA-4D96-8AF8-6DD9B26999B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F2E7D44-4AD8-44E9-9C34-6544818008CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2E7D44-4AD8-44E9-9C34-6544818008CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2E7D44-4AD8-44E9-9C34-6544818008CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2E7D44-4AD8-44E9-9C34-6544818008CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A6B7138-D817-4214-AD4B-F6F596C5AFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A6B7138-D817-4214-AD4B-F6F596C5AFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A6B7138-D817-4214-AD4B-F6F596C5AFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A6B7138-D817-4214-AD4B-F6F596C5AFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A930060-D7FA-4D96-8AF8-6DD9B26999B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A930060-D7FA-4D96-8AF8-6DD9B26999B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A930060-D7FA-4D96-8AF8-6DD9B26999B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A930060-D7FA-4D96-8AF8-6DD9B26999B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
